@@ -1,0 +1,25 @@
+{
+  "label": "6asset_lowvol_hires",
+  "n": 6,
+  "k": 3,
+  "lam": 0.5,
+  "normalized": true,
+  "variable_names": [
+    "AAPL",
+    "MSFT",
+    "JPM",
+    "XOM",
+    "JNJ",
+    "AMZN"
+  ],
+  "e_opt": -1.7935902039722795,
+  "optimal_vars": [
+    "AAPL",
+    "JNJ",
+    "AMZN"
+  ],
+  "random_baseline": 0.3125,
+  "n_feasible": 20,
+  "source": "yfinance",
+  "date_range": "2019-01-01 \u2013 2024-01-01"
+}

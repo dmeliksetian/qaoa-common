@@ -1,0 +1,28 @@
+{
+  "label": "8asset_lowvol",
+  "n": 8,
+  "k": 4,
+  "lam": 0.5,
+  "normalized": true,
+  "variable_names": [
+    "AAPL",
+    "MSFT",
+    "JPM",
+    "XOM",
+    "JNJ",
+    "AMZN",
+    "GOOGL",
+    "BRK-B"
+  ],
+  "e_opt": -2.275441735309843,
+  "optimal_vars": [
+    "AAPL",
+    "JPM",
+    "JNJ",
+    "GOOGL"
+  ],
+  "random_baseline": 0.2734375,
+  "n_feasible": 70,
+  "source": "yfinance",
+  "date_range": "2019-01-01 \u2013 2024-01-01"
+}

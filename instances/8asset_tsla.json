@@ -1,0 +1,28 @@
+{
+  "label": "8asset_tsla",
+  "n": 8,
+  "k": 4,
+  "lam": 0.5,
+  "normalized": true,
+  "variable_names": [
+    "AAPL",
+    "MSFT",
+    "JPM",
+    "XOM",
+    "JNJ",
+    "AMZN",
+    "TSLA",
+    "IBM"
+  ],
+  "e_opt": -2.279572820324377,
+  "optimal_vars": [
+    "AAPL",
+    "JPM",
+    "AMZN",
+    "TSLA"
+  ],
+  "random_baseline": 0.2734375,
+  "n_feasible": 70,
+  "source": "yfinance",
+  "date_range": "2019-01-01 \u2013 2024-01-01"
+}

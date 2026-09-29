@@ -1,0 +1,40 @@
+{
+  "label": "16asset_highvol_hires",
+  "n": 16,
+  "k": 8,
+  "lam": 0.5,
+  "normalized": false,
+  "variable_names": [
+    "AAPL",
+    "MSFT",
+    "JPM",
+    "XOM",
+    "JNJ",
+    "AMZN",
+    "TSLA",
+    "IBM",
+    "NVDA",
+    "META",
+    "COIN",
+    "PLTR",
+    "AMD",
+    "TSM",
+    "XYZ",
+    "RIVN"
+  ],
+  "e_opt": -1134.467474474812,
+  "optimal_vars": [
+    "AAPL",
+    "JNJ",
+    "AMZN",
+    "TSLA",
+    "NVDA",
+    "META",
+    "TSM",
+    "XYZ"
+  ],
+  "random_baseline": 0.196380615234375,
+  "n_feasible": 12870,
+  "source": "yfinance",
+  "date_range": "2019-01-01 \u2013 2024-01-01"
+}

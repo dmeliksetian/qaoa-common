@@ -1,0 +1,40 @@
+{
+  "label": "16asset_lowvol_hires",
+  "n": 16,
+  "k": 8,
+  "lam": 0.5,
+  "normalized": false,
+  "variable_names": [
+    "AAPL",
+    "MSFT",
+    "JPM",
+    "XOM",
+    "JNJ",
+    "AMZN",
+    "GOOGL",
+    "BRK-B",
+    "PG",
+    "KO",
+    "WMT",
+    "MRK",
+    "PEP",
+    "UNH",
+    "HD",
+    "MCD"
+  ],
+  "e_opt": -434.3381886719618,
+  "optimal_vars": [
+    "AAPL",
+    "JPM",
+    "PG",
+    "KO",
+    "WMT",
+    "PEP",
+    "UNH",
+    "HD"
+  ],
+  "random_baseline": 0.196380615234375,
+  "n_feasible": 12870,
+  "source": "yfinance",
+  "date_range": "2019-01-01 \u2013 2024-01-01"
+}
